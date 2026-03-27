@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "type": "jar",
-  "url": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.8/vexmon-launcher-1.0.8.jar",
-  "changelog": "Test update"
+  "version": "1.0.9",
+  "type": "installer",
+  "url": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.9/VexmonLauncher-Setup-1.0.9.exe",
+  "changelog": "Fix finale auto update"
 }
