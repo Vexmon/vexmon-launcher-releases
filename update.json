@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "type": "jar",
-  "url": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.10/vexmon-launcher.jar",
+  "url": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.11/vexmon-launcher.jar",
   "downloads": {
-    "jar": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.10/vexmon-launcher.jar"
+    "jar": "https://github.com/Vexmon/vexmon-launcher-releases/releases/download/v1.0.11/vexmon-launcher.jar"
   },
-  "changelog": "Supporto update multi-piattaforma"
+  "changelog": "Fix optional mod selections after updates"
 }
